@@ -62,8 +62,7 @@ header {
 /* SECTION TITLES */
 .section-title {
   text-align: center;
-  margin: 40px 0 20px;
-  color: #5a3e36;
+  margin: 40px 0 5px;
 }
 
 /* CARDS */
@@ -364,4 +363,9 @@ main.home {
 
 .section-title {
   color: white;
+}
+
+.section-info {
+  text-align: center;
+    color: yellow;
 }
